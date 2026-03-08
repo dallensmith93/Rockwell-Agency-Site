@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ZIP (recreate with create-theme-zip.ps1)
+*.zip
+
+# Local / env
+.env
+.env.local
