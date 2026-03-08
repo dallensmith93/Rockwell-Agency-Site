@@ -19,3 +19,18 @@ See **contractor-theme/README.md** for full theme docs.
 ## License
 
 GPL v2 or later (WordPress theme).
+
+
+# Contractor Lead Generation Website (WordPress Style)
+
+Demo website designed for home service contractors.
+
+Features:
+- Conversion-focused hero section
+- Service cards
+- Testimonials
+- FAQ section
+- Contact form
+- Mobile-first design
+
+Built to mirror the type of lead-generating websites used by contractor marketing agencies.
